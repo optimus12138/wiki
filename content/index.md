@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+最后一次同步：2024/03/25
