@@ -1,7 +1,8 @@
 name: Deploy Quartz site to GitHub Pages
  
 on:
-  push:
+ workflow_dispatch:
+   push:
     branches:
       - v4
  
